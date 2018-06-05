@@ -1,0 +1,36 @@
+Los desarrolladores que usan Java Enterprise Edition estarán felices de saber que la plataforma de desarrollo y tiempo de ejecución está ganando nueva vida como Jakarta EE. Como parte de un acuerdo con Oracle, el gigante de la tecnología cederá el control de la plataforma a Eclipse Foundation, que tiene grandes planes para rehacer Java empresarial para el emergente mundo de la nube.
+
+Desde que compró Sun Microsystems en 2010, Oracle ha estado a cargo de Java. Eso incluye definir no solo el lenguaje principal de Java, sino tener una mano grande en todo lo demás gobernado a través del Proceso de Comunidad de Java (JCP), incluyendo la Máquina Virtual de Java (JVM), el tiempo de ejecución de Edición Estándar (JSE) y la Edición Enterprise de Java. (JEE) plataforma, que proporciona capacidades de nivel empresarial para ejecutar aplicaciones Java a escala, incluido el uso de servicios web y la ejecución distribuida de código.
+
+A principios de la década de 2000, antes de la adquisición de Sun, el ritmo de la innovación era pesado, ya que Java y JEE se extendieron por toda la América corporativa y el mundo entero. Bajo el apodo de J2EE, las empresas adoptaron fácilmente una variedad de solicitudes de servicio de Java (JSR), o especificaciones de JEE, entregadas bajo el paraguas de Enterprise Edition. Eso incluía JSR como servlets Java, Java ServerPages (JSP), Enterprise JavaBeans (EJB), Java ServerFaces (JSF) J2EE Connector Architecture (JCA), Java Persistence API (JPA) y Java Message Service (JMS), entre otros.
+
+Sin embargo, en los últimos años, la emoción sobre JEE ha disminuido y el ritmo del cambio se ha desacelerado considerablemente. En el otoño de 2017, Oracle decidió que ya había tenido suficiente y, a instancias de un grupo de proveedores que incluían a IBM , Red Hat y otros, acordó ceder el control de Java EE a la Fundación Eclipse , que es la clave fuerza detrás del entorno de desarrollo integrado (IDE) basado en Java del mismo nombre.
+
+Mike Milinkovich, director ejecutivo de la Fundación Eclipse, dice que la medida se trata de dar nueva vida a la plataforma Java Enterprise Edition.
+
+"Bajo Oracle, era gente de Oracle que estaba definiendo la arquitectura y decidiendo lo que iba a ser en el lanzamiento, y haciendo con mucho la mayor parte del esfuerzo para impulsar las especificaciones e impulsar la implementación de referencia", explica Milinkovich a IT Jungle. . "De eso se trata: acelerar el ritmo de la comunicación, escuchar a la comunidad sobre lo que quieren que construyamos, y tener por primera vez en varios años los recursos adecuados para avanzar realmente en la ejecución de esto. Eso es en gran medida de qué se trata esto ".
+
+Obtener la bola de Java de la empresa fuera de las manos de Oracle debería ayudar a alinear los incentivos para los otros proveedores de tecnología que trabajan en el ámbito de la empresa Java. "En el mundo anterior, Oracle estaba pagando los cheques de pago para prácticamente todos los involucrados en la configuración de la plataforma", dice Milinkovich. "Ahora se trata de un conjunto de pagadores mucho más diverso, si se quiere usar esa analogía, para quién está invirtiendo de forma aguda sus recursos de desarrollo en la plataforma".
+
+
+
+La primera orden del día en la Fundación Eclipse fue elegir un nuevo nombre, y después de un voto de 7.000 personas, se seleccionó el nombre Jakarta EE. Pero no se deje engañar pensando que "EE" significa "Enterprise Edition", dice Milinkovich. "El EE en realidad no significa Enterprise Edition. En realidad, no representa nada en absoluto ", dice. "Es solo parte de la marca".
+
+Cualquiera que sea el nombre, la conexión de Jakarta EE con JEE y la pila completa de Java es clara. Jakarta EE seguirá funcionando sobre JSE. Continuará cumpliendo con las especificaciones del JCP y continuará desarrollándose como un Java Development Kit (JDK) abierto.
+
+Una cosa que cambiará es que la Fundación Eclipse creará un proceso de especificación completamente nuevo para Yakarta EE, dice Milinkovich. El nuevo proceso de especificaciones será el vehículo a través del cual la comunidad decidirá dónde tomar Jakarta EE a continuación. "Va a ser un esfuerzo mucho más colaborativo y conjunto en comparación con un solo ejercicio de proveedor", dice.
+
+La Fundación Eclipse recientemente realizó una encuesta para ver dónde la comunidad de Yakarta EE (comunidad nee J2EE) quiere que la tecnología funcione. Según la Encuesta para Desarrolladores de Yakarta EE 2018, las tres áreas más críticas citadas para la mejora fueron mejor soporte para microservicios, integración nativa con tecnología de contenedores como Kubernetes y Docker, y un ritmo más rápido de innovación.
+
+Si bien las nuevas especificaciones no se han establecido en piedra, está claro en qué dirección la comunidad JEE quiere ver que vaya Yakarta EE. Históricamente, JEE se implementaba tradicionalmente en las instalaciones, pero la importancia primordial de apoyar los paradigmas de las nubes emergentes llegó muy alto y claro en la encuesta.
+
+
+Encuesta para desarrolladores de Yakarta EE 2018
+
+"Hay una situación en la que 1,000 de los Fortune 1,000 usan esta tecnología para administrar sus negocios hoy en día", dice Milinkovich. "Si podemos proporcionarles una ruta de migración desde lo que tienen hoy a la arquitectura de micro servicios y la capacidad nativa de la nube de sus aplicaciones de próxima generación, eso les ayudará a hacer el cambio mucho más rápido".
+
+Se trata de proteger la inversión que han realizado no solo en aplicaciones Java empresariales, sino también en desarrolladores empresariales Java, dice Milinkovich. "Hoy hay millones de desarrolladores que conocen Java EE", dice. "Hay mucha gente que es muy apasionada con esta tecnología, y si podemos ofrecerles una plataforma mediante la cual puedan desarrollar sus habilidades y les permitan crear aplicaciones utilizando estas nuevas arquitecturas con las habilidades que tienen. . . entonces eso será un beneficio real para esos desarrolladores ".
+
+Como miembros fundadores del Grupo de Trabajo EE de Yakarta, Oracle, IBM, Red Hat, Fujitsu , Lightbend , Payara Systems , Pivotal , Tomitribe y Webtide tendrán influencia sobre la dirección de esta tecnología. Pero la Fundación Eclipse quiere alentar a toda la comunidad Java a respaldar a Yakarta EE.
+
+"Si piensas en el hecho de que prácticamente toda la empresa tiene una gran inversión en esta plataforma tecnológica y ahora tienes la oportunidad de participar con los proveedores y la comunidad para configurar su evolución, creemos que es una propuesta de valor fantástica para esas empresas". Milinkovich dice. "Vamos a hacer todo lo posible para reclutar a esas empresas no solo para que se conviertan en miembros y se comprometan con la gobernanza de estos proyectos, sino que ayuden a implementar la hoja de ruta y compartan el futuro, pero aprender que es lo mejor para ellos y para su personal y desarrolladores para poner a las personas en los proyectos de código abierto y participar realmente en el nivel del proyecto para impulsar estas tecnologías ".
